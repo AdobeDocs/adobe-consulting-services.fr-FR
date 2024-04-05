@@ -2,7 +2,7 @@
 title: Présentation de l’intégration de Veeva Vault
 description: Présentation de l’intégration de Veeva Vault
 exl-id: 52cc7290-b7e1-4476-877f-48934e6daf68
-source-git-commit: 4d27e7ecca662b2082a18621becb0b8ec7735824
+source-git-commit: 005c738818ab622a342ddc3a94e94638e344d058
 workflow-type: tm+mt
 source-wordcount: '692'
 ht-degree: 0%
@@ -101,3 +101,4 @@ Les tickets d’assistance peuvent être consignés auprès de l’assistance cl
 ### Demande de prise en charge de PromoMats de Veeva Vault
 
 Parfois, le problème rencontré est un problème lié au fonctionnement de l’instance PromoMats de Veeva Vault. Si tel est le cas, il se peut que votre administrateur PromoMats de Veeva Vault soit invité à créer un ticket d’assistance avec [Prise en charge de Veeva](http://support.veeva.com/). Vous pouvez consulter le statut de l’instance Veeva en accédant à [Veeva Trust](http://trust.veeva.com/).
+
