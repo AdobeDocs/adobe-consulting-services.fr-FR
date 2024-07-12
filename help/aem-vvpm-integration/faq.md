@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Il est important de comprendre les métadonnées en fonction du type de contenu (promotions, par exemple) dans le portail Veeva. Après avoir consulté le portail Veeva, construisez le schéma de métadonnées de contenu dans AEM afin de contenir toutes les métadonnées pertinentes pour chaque ressource/page et configurez l’intégration pour mapper les métadonnées entre les deux systèmes.
 
-**L’intégration prend-elle en charge les documents liés à Veeva ? Dans le cas contraire, quels types de relations sont pris en charge ?**
+**L&#39;intégration prend-elle en charge les documents liés à Veeva ? Dans le cas contraire, quels types de relation sont pris en charge ?**
 
-Nombre Voir [Documentation de Veeva](https://vaulthelp2.vod309.com/wordpress/admin-user-help/documents-admin-user-help/about-document-relationships/). Le document lié (type de relation de référence) est l’un des types de relation standard qui ne peuvent pas être créés ou supprimés via l’API, car ils ont un comportement Vault spécial. Les composants, les documents annexes et tout autre élément non répertorié dans cette liste doivent pouvoir être configurés via la configuration AEM cloud Veeva.
+Nombre Voir la [documentation de Veeva](https://vaulthelp2.vod309.com/wordpress/admin-user-help/documents-admin-user-help/about-document-relationships/). Le document lié (type de relation de référence) est l’un des types de relation standard qui ne peuvent pas être créés ou supprimés via l’API, car ils ont un comportement Vault spécial. Les composants, les documents annexes et tout autre élément non répertorié dans cette liste doivent pouvoir être configurés via la configuration AEM cloud Veeva.
 
-**L’intégration prend-elle en charge le contenu modulaire AEM ?**
+**L&#39;intégration prend-elle en charge le contenu modulaire AEM ?**
 
 Oui, l’intégration prend en charge AEM fragments de contenu et d’expérience.
 
@@ -27,7 +27,7 @@ Oui, l’intégration prend en charge AEM fragments de contenu et d’expérienc
 
 Non, pas pour le moment.
 
-**L’intégration synchronise-t-elle les annotations visuelles de Veeva avec AEM ?**
+**L’intégration synchronise-t-elle les annotations visuelles Veeva à AEM ?**
 
 Non, pas pour le moment. Les annotations visuelles ne sont accessibles que via l’API en tant que PDF.
 
@@ -39,6 +39,6 @@ L’intégration utilise un utilisateur de service pour charger des documents vi
 
 L’intégration utilise une approche de configuration cloud qui permet à plusieurs points d’entrée Veeva d’être configurés à partir d’une instance AEM.
 
-**L’intégration prend-elle en charge AEM publication ?**
+**L&#39;intégration prend-elle en charge AEM publication ?**
 
 Non, cette intégration fonctionne uniquement avec AEM auteur. Il est destiné à faciliter les cycles de révision MLR avant la publication du contenu.

@@ -25,7 +25,7 @@ Cette intégration requiert les versions logicielles minimales suivantes :
 
 >[!IMPORTANT]
 >
->Cette fonctionnalité n’est pas disponible en standard dans le cadre du produit. La mise en oeuvre nécessite le contrat de maintenance d’Adobe Consulting. Veuillez contacter votre représentant Adobe pour en savoir plus.
+>Cette fonctionnalité n’est pas disponible en standard dans le cadre du produit. La mise en oeuvre nécessite un contrat de maintenance Adobe Consulting. Veuillez contacter votre représentant Adobe pour en savoir plus.
 >
 
 ## Principes et fonctionnalités
@@ -45,10 +45,10 @@ Les avantages incluent :
 
 Que fait l’intégration ?
 
-* Prend en charge l’envoi AEM pages de site, ressources, fragments de contenu et fragments d’expérience à VVPM. AEM pages, fragments de contenu et fragments d’expérience peuvent être envoyés sous forme de PDF de capture d’écran ou d’images. Les fichiers binaires AEM Assets sont envoyés tels quels.
+* Prend en charge l’envoi AEM pages de site, Assets, fragments de contenu et fragments d’expérience à VVPM. AEM pages, fragments de contenu et fragments d’expérience peuvent être envoyés sous forme de PDF de capture d’écran ou d’images. Les fichiers binaires AEM Assets sont envoyés tels quels.
 * Prend en charge la synchronisation manuelle et automatisée de certains éléments de métadonnées configurables d’AEM à VPM.
 * Prend en charge la synchronisation manuelle et automatisée de certains éléments de métadonnées configurables de VPM à AEM.
-* Prend en charge les relations entre les pages AEM site, les ressources, les fragments de contenu et les fragments d’expérience dans VVPM afin d’automatiser les relations de contenu.
+* Prend en charge les relations entre AEM pages de site, Assets, fragments de contenu et fragments d’expérience dans VVPM afin d’automatiser les relations de contenu.
 * Prend en charge la génération de rendu pour plusieurs types d’appareils.
 
 >[!NOTE]
@@ -73,13 +73,13 @@ Pour configurer cette intégration, vous devez suivre les étapes ci-dessous.
 
 Pour demander et configurer l’intégration, veuillez consulter les détails de l’organigramme et de l’organigramme ci-dessous.
 
-![Demande d’accès](assets/integration-request.png)
+![Demander l’accès](assets/integration-request.png)
 
 Détails de l’organigramme (mise en correspondance avec les étapes ci-dessus) :
 
-* **Étape 1** - On suppose que vous disposez déjà, ou êtes en train d&#39;acquérir, d&#39;une licence pour Veeva Vault PromoMats et pour Adobe Experience Manager.
-* **Étape 2** - Pour tirer parti de l’intégration, une nouvelle commande client qui définit un contrat de maintenance avec Adobe Consulting devra être signée.
-* **Étape 3** - Installez, activez et configurez le package d’intégration.
+* **Étape 1** - On suppose que vous disposez déjà, ou êtes en train d&#39;acheter, d&#39;une licence pour Veeva Vault PromoMats et pour Adobe Experience Manager.
+* **Étape 2** - Pour tirer parti de l’intégration, une nouvelle commande client qui décrit un accord de maintenance avec Adobe Consulting devra être signée.
+* **Étape 3** - Installation, activation et configuration du package d’intégration.
 
 ## Assistance
 
@@ -87,16 +87,16 @@ La section suivante décrit comment contacter et consigner un problème avec l�
 
 ### Demande d’intégration ou d’assistance Adobe Experience Manager
 
-Les tickets d’assistance peuvent être consignés auprès de l’assistance clientèle d’Adobe. Votre administrateur Adobe Experience Cloud devra se connecter à [Adobe Admin Console](https://adminconsole.adobe.com/), cliquez sur l’onglet support et créez un dossier. Pour tout problème lié à l’intégration, veillez à inclure les informations suivantes :
+Les tickets d’assistance peuvent être consignés auprès de l’assistance clientèle d’Adobe. Votre administrateur Adobe Experience Cloud devra se connecter à [Adobe Admin Console](https://adminconsole.adobe.com/), cliquer sur l’onglet Assistance et créer un cas. Pour tout problème lié à l’intégration, veillez à inclure les informations suivantes :
 
-* **Titre du processus**: `AEM - Veeva Vault Integration`
-* **Propriétaire du processus**: `Data Engineering`
+* **Titre du processus** : `AEM - Veeva Vault Integration`
+* **Propriétaire du processus** : `Data Engineering`
 * **Description** : `Description of the issue`
-* **Point de contact**: `The email address(es) for relavant AEM point of contacts for your organization.`
-* **URL de l’instance AEM**: `Place the Adobe Experience Manager instance url here.`
-* **URL de l’instance Veeva**: `Place the Veeva Vault PromoMats instance url here.`
+* **Point de contact** : `The email address(es) for relavant AEM point of contacts for your organization.`
+* **AEM URL de l’instance** : `Place the Adobe Experience Manager instance url here.`
+* **URL de l’instance de Veeva** : `Place the Veeva Vault PromoMats instance url here.`
 
 ### Demande de prise en charge de PromoMats de Veeva Vault
 
-Parfois, le problème rencontré est un problème lié au fonctionnement de l’instance PromoMats de Veeva Vault. Si tel est le cas, il se peut que votre administrateur PromoMats de Veeva Vault soit invité à créer un ticket d’assistance avec [Prise en charge de Veeva](http://support.veeva.com/). Vous pouvez consulter le statut de l’instance Veeva en accédant à [Veeva Trust](http://trust.veeva.com/).
+Parfois, le problème rencontré est un problème lié au fonctionnement de l’instance PromoMats de Veeva Vault. Si c&#39;est le cas, il se peut que votre administrateur de PromoMats Veeva Vault soit invité à créer un ticket d&#39;assistance avec l&#39;[assistance Veeva](http://support.veeva.com/). Vous pouvez consulter l’état de l’instance Veeva en accédant à [Veeva Trust](http://trust.veeva.com/).
 
