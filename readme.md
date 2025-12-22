@@ -5,9 +5,9 @@ source-wordcount: '78'
 ht-degree: 74%
 
 ---
-# Services de conseil en Adobe
+# Services Adobe Consulting
 
-Il s’agit du référentiel pour la documentation des solutions AEM créées et gérées par les services de conseil d’Adobe (ACS).
+Il s’agit du référentiel pour la documentation des solutions AEM créées et conservées par les services Adobe Consulting (ACS).
 
 Vos contributions à la documentation sont les bienvenues. Veuillez consulter les ressources suivantes :
 
