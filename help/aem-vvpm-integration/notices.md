@@ -2,7 +2,7 @@
 title: Avis d'intégration Veeva Vault
 description: Avis d'intégration Veeva Vault
 exl-id: 1a188671-d123-4475-a607-65743ba0dadd
-source-git-commit: b024e4295b5b37030c1524342832400c279c650a
+source-git-commit: b4261448e34cdcee9c28410a9d3cd8dbcc9212fa
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 1%
@@ -44,4 +44,3 @@ Tenez compte des restrictions suivantes lors de l’utilisation de cette intégr
 Vous pouvez surveiller les limites de votre instance en accédant aux paramètres généraux du VPM.
 
 ![Limites Veeva](assets/veeva-limits.png)
-
