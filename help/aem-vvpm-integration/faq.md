@@ -2,13 +2,14 @@
 title: FAQ sur l'intégration Veeva Vault
 description: FAQ sur l'intégration Veeva Vault
 exl-id: c308ebb3-7881-4094-9f35-c67a96fb5ab1
-source-git-commit: b024e4295b5b37030c1524342832400c279c650a
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 02aa1622ee171cd56ec9cdeb6bdef04b5d5464b5
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '354'
 ht-degree: 1%
-
 ---
-
 # Questions fréquentes
 
 **Quelles métadonnées doivent être synchronisées avec Veeva ?**
