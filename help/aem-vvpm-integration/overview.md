@@ -88,7 +88,7 @@ La section suivante décrit comment contacter l’équipe d’assistance et sign
 
 ### Demande d’intégration ou de prise en charge de Adobe Experience Manager
 
-Des tickets d’assistance peuvent être consignés auprès de l’assistance clientèle Adobe. Votre administrateur Adobe Experience Cloud devra se connecter à [](https://adminconsole.adobe.com/), cliquer sur l’onglet support et créer un dossier. Pour tout problème lié à l’intégration, veillez à inclure les informations suivantes :
+Des tickets d’assistance peuvent être consignés auprès de l’assistance clientèle Adobe. Votre administrateur Adobe Experience Cloud devra se connecter à [&#128279;](https://adminconsole.adobe.com/), cliquer sur l’onglet support et créer un dossier. Pour tout problème lié à l’intégration, veillez à inclure les informations suivantes :
 
 * **Titre du processus** : `AEM - Veeva Vault Integration`
 * **Propriétaire du processus** : `Data Engineering`

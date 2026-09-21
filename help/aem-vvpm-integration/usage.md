@@ -184,8 +184,8 @@ Si le projet doit générer des fichiers PDF ou des images pour les pages, cet o
 2. Obligatoire. Nom d’action pour la génération d’images de page. Cette valeur doit être `aem-veeva-integration/get-image-async`.
 3. Obligatoire. Nom d’action pour la génération d’images HTML. Cette valeur doit être `aem-veeva-integration/get-pdf-async-new`.
 4. Obligatoire. Point d’entrée d’Adobe IO permettant d’obtenir l’état de la génération fournie dans l’e-mail d’intégration (par exemple, `https://my-namespace.adobeioruntime.net/api/v1/web/aem-veeva-serverless-0.0.2/get-state-value`).
-5. Obligatoire. Nom d’utilisateur AEM à utiliser par Adobe IO. Voir [Création d’utilisateurs ](#aem-user-creation).
-6. Obligatoire. Mot de passe AEM à utiliser par Adobe IO. Voir [Création d’utilisateurs ](#aem-user-creation).
+5. Obligatoire. Nom d’utilisateur AEM à utiliser par Adobe IO. Voir [Création d’utilisateurs &#x200B;](#aem-user-creation).
+6. Obligatoire. Mot de passe AEM à utiliser par Adobe IO. Voir [Création d’utilisateurs &#x200B;](#aem-user-creation).
 7. Facultatif. Le délai d’expiration par défaut consiste à laisser la page répondre jusqu’à un moment spécifié, après quoi le service AIO cesse d’essayer d’obtenir une réponse. La valeur par défaut est `30000`.
 8. Facultatif. Le délai est défini après que la page a répondu avec un délai de 200 pour que toutes les images s’affichent avant de prendre une capture d’écran. La valeur par défaut est `2000`.
 9. Facultatif. L’URL générée pour la capture d’écran/PDF expirera après la valeur configurée en secondes.
