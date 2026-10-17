@@ -3,6 +3,7 @@ product: adobe experience manager
 solution: Experience Manager
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: "Experience Manager"
 usetq: true
 description: Consultation de la documentation Experience Manager
 type: Documentation
@@ -10,11 +11,9 @@ git-repo: https://github.com/AdobeDocs/adobe-consulting-services.fr-FR
 index: true
 source-git-commit: e0159a3db7c79d12ee150be018ee5d005975b95a
 workflow-type: tm+mt
-source-wordcount: 94
+source-wordcount: '88'
 ht-degree: 2%
-
 ---
-
 
 # Métadonnées à usage interne
 
